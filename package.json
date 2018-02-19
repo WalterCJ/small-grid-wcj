@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "Walter Cavalcante Junior <waltercavalcantejunior@gmail.com> (https://github.com/WalterCJ)",
   "license": "MIT",
+  "files": ["build"],
   "keywords": [
     "components",
     "react",
