@@ -1,0 +1,12 @@
+body {
+  font-family: 'Dosis', sans-serif;
+  color: #555;
+  background: #2c3e50;
+  box-sizing: border-box;
+}
+.wrapper {
+  margin: 2em auto;
+  padding: 1em;
+  background: #fff;
+  border: 0.5em solid #34495e;
+}

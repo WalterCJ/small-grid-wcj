@@ -1,0 +1,24 @@
+{
+  "name": "small-grid-wcj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Walter Cavalcante Junior <waltercavalcantejunior@gmail.com> (https://github.com/WalterCJ)",
+  "license": "MIT",
+  "scripts": {
+    "build": "neutrino build",
+    "start": "neutrino start",
+    "lint": "neutrino lint",
+    "test": "neutrino test"
+  },
+  "devDependencies": {
+    "@neutrinojs/jest": "^8.1.1",
+    "@neutrinojs/react-components": "^8.1.1",
+    "@neutrinojs/standardjs": "^8.1.1",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "neutrino": "^8.1.1",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
