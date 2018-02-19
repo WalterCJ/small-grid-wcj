@@ -4,6 +4,14 @@
   "main": "index.js",
   "author": "Walter Cavalcante Junior <waltercavalcantejunior@gmail.com> (https://github.com/WalterCJ)",
   "license": "MIT",
+  "keywords": [
+    "components",
+    "react",
+    "react-component",
+    "toolkit",
+    "grid",
+    "image grid"
+  ],
   "scripts": {
     "build": "neutrino build",
     "start": "neutrino start",
